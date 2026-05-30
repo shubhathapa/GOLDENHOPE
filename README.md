@@ -1,4 +1,4 @@
-# 💎 Lumière — Fine Jewelry E-Commerce Store
+# 💎 Golden Hope — Fine Jewelry E-Commerce Store
 > Group project · COMP/IT [Course Code] · Team of 4
 
 ---
